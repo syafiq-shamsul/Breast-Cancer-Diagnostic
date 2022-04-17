@@ -19,7 +19,7 @@ el structure](https://user-images.githubusercontent.com/100821053/163700636-9030
 
 The model is trained with batch size of 16 and epochs of 40 resulting both training and validation accuracy of 98%. The figure below visualize the loss and accuracy during the training process
 ![Loss](https://user-images.githubusercontent.com/100821053/163700663-d570e14c-0da4-4307-9e1f-33e00a716efb.png)
-![Uploading Accuracy.png…]()
+![Accuracy](https://user-images.githubusercontent.com/100821053/163700780-3418e775-bd23-49a5-83fe-aa34a1d622d7.png)
 
 ## 4. Results
 
@@ -27,6 +27,7 @@ The model is tested using the test data and resulting the accuracy as shown in f
 ![test results](https://user-images.githubusercontent.com/100821053/163700719-c0e3dfcf-2498-40d6-a332-ba08f05e7113.png)
 
 The figure shows the predictions result for all the test result
+
 ![Prediction result](https://user-images.githubusercontent.com/100821053/163700721-ac7f226b-f597-4618-a60e-d966162b0ca4.png)
 
 
