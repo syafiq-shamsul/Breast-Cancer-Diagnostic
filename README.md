@@ -23,8 +23,10 @@ The model is trained with batch size of 16 and epochs of 40 resulting both train
 
 ## 4. Results
 
-The test data and the prediction result is shown is figure below
+The model is tested using the test data and resulting the accuracy as shown in figure below:
 ![test results](https://user-images.githubusercontent.com/100821053/163700719-c0e3dfcf-2498-40d6-a332-ba08f05e7113.png)
+
+The figure shows the predictions result for all the test result
 ![Prediction result](https://user-images.githubusercontent.com/100821053/163700721-ac7f226b-f597-4618-a60e-d966162b0ca4.png)
 
 
